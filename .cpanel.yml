@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/docto95/public_html/
+    - export DEPLOYPATH=/home/docto95/public_html/qubits.icu/projects/react_posts_list-main/public/index.html
     - /bin/cp -R * $DEPLOYPATH
